@@ -47,7 +47,6 @@ export default function Home() {
               alt="Vercel logomark"
               width={18}
               height={16}
-              style={{ width: "auto", height: "auto" }}
             />
             Deploy Now
           </a>
